@@ -1,0 +1,6 @@
+sudo yum install -y \
+vim \
+git \
+nano \
+curl \
+wget 
